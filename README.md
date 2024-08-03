@@ -4,7 +4,7 @@
 
 ### Photos
 
-Title + Photo:
+Developer Name + Photo:
 ![image](/images/TitlepPlusPhoto.png)
 
 Diplomas:
