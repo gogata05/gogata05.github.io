@@ -1,6 +1,13 @@
-### ✏️ This is my github portfolio site file that allows me to have a URL portfolio with a link:
+### ✏️ Github Portfolio Project:
 
 ### 🎓 Portfolio Link - [Here](https://gogata05.github.io/)
+
+### Features
+
+- [x] HTML
+- [x] CSS
+- [x] JavaScript
+- [x] SCSS
 
 ### Photos
 
