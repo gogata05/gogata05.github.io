@@ -1,13 +1,13 @@
-### ✏️ Github Portfolio Project:
+### ✏️ Github SCSS Portfolio Project:
 
 ### 🎓 Portfolio Link - [Here](https://gogata05.github.io/)
 
 ### Features
 
-- [x] HTML
-- [x] CSS
-- [x] JavaScript
-- [x] SCSS
+- HTML
+- CSS
+- JavaScript
+- SCSS
 
 ### Photos
 
